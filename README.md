@@ -1,2 +1,2 @@
 # wildduck-blog
-The blog used by the Wild Duck Theories site.
+The blog used by the jonseynmour.net site.
